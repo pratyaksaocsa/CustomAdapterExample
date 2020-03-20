@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoLineArrayAdapter</string>
+    <string name="fragment2">Text from Fragment 2</string>
+</resources>
